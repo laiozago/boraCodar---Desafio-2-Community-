@@ -1,0 +1,17 @@
+.ilustracao {
+    position: relative;
+
+    button {
+        background: url("../assets/img/360-degree-rotate-icon.svg");
+        background-repeat: no-repeat;
+        height: 3rem;
+        width: 3rem;
+        border: none;
+        position: absolute;
+        right: 5em;
+    }
+
+    img {
+        width: 55vw;
+    }
+}

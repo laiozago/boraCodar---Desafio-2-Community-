@@ -1,0 +1,34 @@
+@import '../abstract/variaveis';
+
+.informacao {
+    display: flex;
+    flex-direction: column;
+
+    p{
+        font-family: $fonte-secundaria;
+        font-size: 10px;
+        font-weight: 300;
+        margin-bottom: 1rem;
+    }
+
+    h1 {
+        font-size: 32px;
+        font-weight: 600;
+        margin-bottom: .5rem;
+    }
+
+    h2 {
+        font-family: $fonte-secundaria;
+        font-weight: 400;
+        font-size: 16px;
+        margin-bottom: 1rem;
+    }
+
+    button {
+        padding: 8px 16px;
+        border: 0.5px solid $cor-da-fonte;
+        border-radius: 999px;
+        background: transparent;
+        text-align: center;
+    }
+}

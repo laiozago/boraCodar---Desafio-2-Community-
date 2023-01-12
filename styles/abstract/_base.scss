@@ -1,0 +1,12 @@
+@import './variaveis';
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html, body {
+    background-color: $cor-de-fundo;
+    color: $cor-da-fonte;
+    font-family: $fonte;
+}

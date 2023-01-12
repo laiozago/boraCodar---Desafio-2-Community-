@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@400;600&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+}
+
+html, body {
+  background-color: #D9CDF7;
+  color: #271A45;
+  font-family: "Crimson Pro", serif;
+}/*# sourceMappingURL=style.css.map */

@@ -69,4 +69,11 @@ main {
   border-radius: 999px;
   background: transparent;
   text-align: center;
+  cursor: pointer;
+}
+.informacao button:hover {
+  transition: 0.3s;
+  background-color: #271A45;
+  color: #D9CDF7;
+  font-weight: bold;
 }/*# sourceMappingURL=style.css.map */

@@ -9,6 +9,12 @@
         border: none;
         position: absolute;
         right: 5em;
+        cursor: pointer;
+
+        &:hover {
+            width: 3.5rem;
+            transition: .3s;
+        }
     }
 
     img {

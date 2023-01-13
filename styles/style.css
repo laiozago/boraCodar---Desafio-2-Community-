@@ -32,6 +32,11 @@ main {
   border: none;
   position: absolute;
   right: 5em;
+  cursor: pointer;
+}
+.ilustracao button:hover {
+  width: 3.5rem;
+  transition: 0.3s;
 }
 .ilustracao img {
   width: 55vw;
